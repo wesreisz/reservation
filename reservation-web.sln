@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reservation-web", "reservation-web\reservation-web.csproj", "{FFE3A488-416A-46F7-9C86-9A7E0DF95DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{DFF07772-B715-4F59-9D80-3DE67C222B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE3A488-416A-46F7-9C86-9A7E0DF95DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE3A488-416A-46F7-9C86-9A7E0DF95DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE3A488-416A-46F7-9C86-9A7E0DF95DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE3A488-416A-46F7-9C86-9A7E0DF95DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF07772-B715-4F59-9D80-3DE67C222B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF07772-B715-4F59-9D80-3DE67C222B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF07772-B715-4F59-9D80-3DE67C222B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF07772-B715-4F59-9D80-3DE67C222B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
