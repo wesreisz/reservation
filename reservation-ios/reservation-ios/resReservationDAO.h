@@ -12,7 +12,7 @@
 @interface resReservationDAO : NSObject
 
 - (NSMutableArray *) getAllReservations;
-- (id)initWithName:(NSString *)name andCity:(NSString *)city;
+- (id)initWithName:(NSString *)name andCity:(NSString *)city andReservationId:(NSInteger *)reservationId;
 - (resReservation *)addReservation:(resReservation *) reservation;
 - (void)removeReservation:(resReservation *) reservation;
 - (resReservation *)updateReservation:(resReservation *) reservation;

@@ -9,7 +9,7 @@
 #import "resReservationDAO.h"
 
 @implementation resReservationDAO
-NSString *const JSON_URL = @"http://demo.wesleyreisz.com/api/reservation";
+NSString *const JSON_URL = @"http://test-reisz.uofl-cis411.com/reservations/api/reservation";
 
 NSMutableArray * _reservations;
 
